@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cpsvote"]
 	path = cpsvote
 	url = https://github.com/reed-evic/cpsvote
-	shallow = true
-	registered = true
